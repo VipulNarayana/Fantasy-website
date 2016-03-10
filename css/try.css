@@ -1,0 +1,13 @@
+#back{
+background-image:url('../img/i.jpg');
+position:relative;
+left:150px;
+width:960px;
+height:450px;
+}
+
+#button{position:relative;
+left:650px;
+top:490px;
+
+}

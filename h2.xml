@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Fantasy Cricket</title>
+  <textinput>
+    <description>Search Google</description>
+    <title>Search</title>
+    <link>http://search.espncricinfo.com/ci/content/site/search.html?search=</link>
+    <name>search</name>
+  </textinput>
+</channel>
+</rss>
+
