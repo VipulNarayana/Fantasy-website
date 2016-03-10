@@ -12,15 +12,15 @@ while($row=mysql_fetch_array($result))
 {
 	if($row['email']===$email)
 	{
-	$from = "mnvipul@gmail.com";
+	$from = "abc@gmail.com";
 	$to=$_POST['email'];
     $subject = "Recover Password!";
     $body = "http://localhost/fantasy/recover.php";
 
     $host = "ssl://smtp.gmail.com";
     $port = "465";
-    $username = "mnvipul";
-    $password = "vikas1911";
+    $username = "abc";
+    $password = "passwd";
 
     $headers = array ('From' => $from,
       'To' => $to,
